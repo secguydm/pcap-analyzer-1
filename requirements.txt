@@ -1,6 +1,6 @@
 --index-url http://mirrors.aliyun.com/pypi/simple/
 Flask==0.10.1
-Werkzeug==2.2.3
+Werkzeug==3.0.3
 pyshark==0.3.3
 chartkick==0.4.2
 Logbook==0.7.0
